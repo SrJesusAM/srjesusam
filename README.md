@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <h1 align="center">Hi there, I'm Jesús 👋</h1>
-<h3 align="center">🚀 Tech Lead | Senior Java Developer | Full-Stack Enthusiast</h3>
+<h3 align="center">🚀 Tech Lead | Senior Software Engineer | Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=srjesusam&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
